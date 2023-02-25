@@ -5,7 +5,7 @@
 ---
 ## GitHub Pages:
 
-https://elizavetaiutina.github.io/how-to-learn/
+### https://elizavetaiutina.github.io/how-to-learn/
 
 ## Описание проекта
 
